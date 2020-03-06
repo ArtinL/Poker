@@ -1,7 +1,8 @@
+# Java Poker
 This is a guide on how to play my game. Refer to it as you are playing.
 If you have no idea how poker works, I suggest reading an article on WikiHow or somethnig and learning to play the game first before coming here.
 
-Starting the game:
+## Starting the game:
 - At first the game will ask for the number of players. This can be anywhere from 2 - 8. You can play with more than 2 people if you want to, but there is no AI so you will have to play for them.
 
 - Then you will provide the buy-in, which is the amount of money everyone starts with initially. This can be any (reasonable) amount above $5.
@@ -10,7 +11,7 @@ Starting the game:
 
 - Lastly, you will provide a name for each player. The name is what the computer will use to refer to you during each turn.
 
-Playing a round:
+## Playing a round:
 - When your turn starts, the computer will display the amount of money in the pot, the bet you have to call (if any) and the amount of money you currently have.
 
 - You will be asked if you want to see your cards or not. Generally in poker since you only have two cards you won’t need to look at them all the time. 
@@ -33,7 +34,7 @@ If the last bet is more than you have, you can either go all in or fold. Going a
 - After all the bets have been matched, the game places down 3 community cards in the “flop” and everyone takes turns again, same as before. 
 - This repeats two more times with the computer placing down one card in the flop each time. By the end, you will have your two original cards along with 5 other community cards in the flop.
 
-Ending the round:
+## Ending the round:
 - After everyone has matched bets, each player will have to pick 5 cards out of the seven cards they have available to them. 
 
 - The computer will show you all the cards you can choose along with numbers next to them. 
