@@ -1,10 +1,8 @@
 Guide Sheet
 This sheet is a guide on how to play my game. Refer to it as you are playing.
-- If you have no idea how poker works, I suggest reading an article on WikiHow or somethnig and learning to play the game first before coming here.
+If you have no idea how poker works, I suggest reading an article on WikiHow or somethnig and learning to play the game first before coming here.
 
 Starting the game:
-- To run the program, press the small green play button either at the top right of the screen or at the top left of the console panel at the bottom of the screen. You can drag the top of the console panel up and down to change its size
-
 - At first the game will ask for the number of players. This can be anywhere from 2 - 8. You can play with more than 2 people if you want to, but there is no AI so you will have to play for them.
 
 - Then you will provide the buy-in, which is the amount of money everyone starts with initially. This can be any (reasonable) amount above $5.
