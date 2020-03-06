@@ -1,5 +1,4 @@
-Guide Sheet
-This sheet is a guide on how to play my game. Refer to it as you are playing.
+This is a guide on how to play my game. Refer to it as you are playing.
 If you have no idea how poker works, I suggest reading an article on WikiHow or somethnig and learning to play the game first before coming here.
 
 Starting the game:
