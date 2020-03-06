@@ -3,9 +3,9 @@ This is a guide on how to play my game. Refer to it as you are playing.
 If you have no idea how poker works, I suggest reading an article on WikiHow or somethnig and learning to play the game first before coming here.
 
 ## Starting the game:
-- At first the game will ask for the number of players. This can be anywhere from 2 - 8. You can play with more than 2 people if you want to, but there is no AI so you will have to play for them.
+- At first the game will ask for the number of players. This can be anywhere from 2 - 8. You can play with more than 2 people if you want to, but there is currently no AI.
 
-- Then you will provide the buy-in, which is the amount of money everyone starts with initially. This can be any (reasonable) amount above $5.
+- Then you will provide the buy-in, which is the amount of money everyone starts with initially. This can be any amount above $5.
 
 - Then you have to enter the amount of the minimum bet. At the beginning of each round, the small blind has to put half of this amount and the big blind has to put the entire amount. You can also enter $0 if you want to play without blinds.
 
