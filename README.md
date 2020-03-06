@@ -3,7 +3,7 @@ This is a guide on how to play my game. Refer to it as you are playing.
 If you have no idea how poker works, I suggest reading an article on WikiHow or somethnig and learning to play the game first before coming here.
 
 ## Starting the game:
-- At first the game will ask for the number of players. This can be anywhere from 2 - 8. You can play with more than 2 people if you want to, but there is currently no AI.
+- At first the game will ask for the number of players. This can be anywhere from 2 - 8. There are currently no AI players.
 
 - Then you will provide the buy-in, which is the amount of money everyone starts with initially. This can be any amount above $5.
 
